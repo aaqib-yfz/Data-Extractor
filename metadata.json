@@ -1,0 +1,5 @@
+{
+  "name": "Data Extractor Pro",
+  "description": "An intelligent application that uses AI to extract structured data from PDF and image files, allowing you to export it to CSV or XLSX formats.",
+  "requestFramePermissions": []
+}
